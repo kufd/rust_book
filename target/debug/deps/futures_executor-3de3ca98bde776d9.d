@@ -1,0 +1,11 @@
+/home/kufd/dev/rust/rust_book/target/debug/deps/libfutures_executor-3de3ca98bde776d9.rmeta: /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/lib.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/local_pool.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/thread_pool.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/unpark_mutex.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/enter.rs
+
+/home/kufd/dev/rust/rust_book/target/debug/deps/libfutures_executor-3de3ca98bde776d9.rlib: /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/lib.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/local_pool.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/thread_pool.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/unpark_mutex.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/enter.rs
+
+/home/kufd/dev/rust/rust_book/target/debug/deps/futures_executor-3de3ca98bde776d9.d: /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/lib.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/local_pool.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/thread_pool.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/unpark_mutex.rs /home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/enter.rs
+
+/home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/lib.rs:
+/home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/local_pool.rs:
+/home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/thread_pool.rs:
+/home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/unpark_mutex.rs:
+/home/kufd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.30/src/enter.rs:
