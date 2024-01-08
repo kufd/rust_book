@@ -1,4 +1,4 @@
 [workspace]
 
-members = [ "blog", "collections_tasks", "concurrency", "first_tasks", "guessing_game", "minigrep", "smart_pointer", "web_server", "web_server_async", "web_server_thread_pool_from_crates_io", ]
+members = [ "blog", "collections_tasks", "concurrency", "first_tasks", "grpc", "guessing_game", "minigrep", "smart_pointer", "web_server", "web_server_async", "web_server_thread_pool_from_crates_io", ]
 resolver = "2"

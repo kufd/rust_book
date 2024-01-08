@@ -1,0 +1,14 @@
+syntax = "proto3";
+package try_grpc;
+
+service TryGrpc {
+    rpc makeRequest(Request) returns (Response);
+}
+
+message Request {
+    string data = 1;
+}
+
+message Response {
+    string data = 1;
+}
