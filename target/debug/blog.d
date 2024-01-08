@@ -1,1 +1,0 @@
-/home/kufd/dev/rust/rust_book/target/debug/blog: /home/kufd/dev/rust/rust_book/blog/src/main.rs /home/kufd/dev/rust/rust_book/blog/src/trait_implementation.rs /home/kufd/dev/rust/rust_book/blog/src/types_implementation.rs
